@@ -1,0 +1,37 @@
+/* .form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+  width: 300px;
+  border: 1px solid black;
+  position: relative;
+ margin: auto;
+ background-color: aqua;
+ text-align: center;
+ margin-top: 20px;
+}
+.imp input{
+  margin: 20px;
+  border: 0;
+  outline: none;
+}
+.todo{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 20px;
+  height: 300px;
+  width: 300px;
+  background-color: blueviolet;
+}
+.render{
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+} */
